@@ -1,0 +1,13 @@
+E:\DuAnDESTOP\CafeManager\bin\Debug\CafeManager.exe.config
+E:\DuAnDESTOP\CafeManager\bin\Debug\CafeManager.exe
+E:\DuAnDESTOP\CafeManager\bin\Debug\CafeManager.pdb
+E:\DuAnDESTOP\CafeManager\obj\Debug\CafeManager.csproj.AssemblyReference.cache
+E:\DuAnDESTOP\CafeManager\obj\Debug\CafeManager.f_Login.resources
+E:\DuAnDESTOP\CafeManager\obj\Debug\CafeManager.Properties.Resources.resources
+E:\DuAnDESTOP\CafeManager\obj\Debug\CafeManager.csproj.GenerateResource.cache
+E:\DuAnDESTOP\CafeManager\obj\Debug\CafeManager.csproj.CoreCompileInputs.cache
+E:\DuAnDESTOP\CafeManager\obj\Debug\CafeManager.exe
+E:\DuAnDESTOP\CafeManager\obj\Debug\CafeManager.pdb
+E:\DuAnDESTOP\CafeManager\obj\Debug\CafeManager.f_TableManager.resources
+E:\DuAnDESTOP\CafeManager\obj\Debug\CafeManager.f_AccountProfile.resources
+E:\DuAnDESTOP\CafeManager\obj\Debug\CafeManager.f_Admin.resources
